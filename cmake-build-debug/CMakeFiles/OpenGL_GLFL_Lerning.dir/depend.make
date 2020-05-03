@@ -159,6 +159,7 @@ CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\OpenGL_GLFW_Libs\Include
 CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\OpenGL_GLFW_Libs\Include\glm\vec3.hpp
 CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\OpenGL_GLFW_Libs\Include\glm\vec4.hpp
 CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\OpenGL_GLFW_Libs\Include\glm\vector_relational.hpp
+CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\OpenGL_GLFW_Libs\Include\image-loader\stb_image.h
 CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\src\ShaderUtils\Shader.h
 CMakeFiles\OpenGL_GLFL_Lerning.dir\src\main.cpp.obj: ..\src\main.cpp
 

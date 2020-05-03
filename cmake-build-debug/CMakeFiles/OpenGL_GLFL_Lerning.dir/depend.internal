@@ -160,6 +160,7 @@ CMakeFiles/OpenGL_GLFL_Lerning.dir/src/main.cpp.obj
  ../OpenGL_GLFW_Libs/Include/glm/vec3.hpp
  ../OpenGL_GLFW_Libs/Include/glm/vec4.hpp
  ../OpenGL_GLFW_Libs/Include/glm/vector_relational.hpp
+ ../OpenGL_GLFW_Libs/Include/image-loader/stb_image.h
  E:/VisualStudioProjects/OpenGL_GLFL_Lerning/src/ShaderUtils/Shader.h
  E:/VisualStudioProjects/OpenGL_GLFL_Lerning/src/main.cpp
 CMakeFiles/OpenGL_GLFL_Lerning.dir/src/textures/TextureLoader.cpp.obj
